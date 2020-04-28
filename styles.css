@@ -1,12 +1,12 @@
 .page
  {
-   width:1240;
+   width:auto;
    height:auto;
    border-style:groove;
  }
  .headerpart
  {
-   width:1240;
+   width:auto;
    height:250px;
    border-style:groove;
    background-color:rgb(144,238,144);
