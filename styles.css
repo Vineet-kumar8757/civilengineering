@@ -1,12 +1,12 @@
 .page
  {
-   width:1240;
+   width:auto;
    height:auto;
    border-style:groove;
  }
  .headerpart
  {
-   width:1240;
+   width:auto;
    height:250px;
    border-style:groove;
    background-color:rgb(144,238,144);
@@ -14,7 +14,7 @@
  }
  .linkspart
   {
-    width:1240;
+    width:auto;
     height:25px;
     margin-top:5px;
     border-style:groove;
@@ -32,14 +32,14 @@
     }
     .bodypart
      {
-       width:1240;
+       width:auto;
        height:auto;
        border-style:groove;
        margin-top:5px;
      }
   .bodypart .imagepart
     {
-      width:800px;
+      width:1000px;
       height:500px;
       border-style:groove;
       background-image:url('images/img1.gif');
