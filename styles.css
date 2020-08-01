@@ -116,7 +116,7 @@ button{
       width:1000px;
       height:500px;
       border-style:groove;
-      background-image:url('images/dudh.gif');
+      background-image:url('dudh.gif');
       background-repeat: no-repeat;
       display:inline-block
     }
